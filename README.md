@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jayantiSinha26
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning different languages
-- 💞️ I’m looking to collaborate on website development
+- 💞️ I’m looking to collaborate on website development or Data Science Projects
 - 📫 How to reach me sinhajayanti26@gmail.com
 
 <!---
